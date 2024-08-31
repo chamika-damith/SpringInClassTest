@@ -1,4 +1,4 @@
-package com.example.springinclasstest;
+package com.example.springinclasstest.user;
 
 public class FoodItem {
     private String name;

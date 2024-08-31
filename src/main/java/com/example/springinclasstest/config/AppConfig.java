@@ -1,6 +1,6 @@
 package com.example.springinclasstest.config;
 
-import com.example.springinclasstest.FoodItem;
+import com.example.springinclasstest.user.FoodItem;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

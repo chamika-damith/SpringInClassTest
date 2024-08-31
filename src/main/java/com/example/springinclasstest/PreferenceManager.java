@@ -1,5 +1,6 @@
 package com.example.springinclasstest;
 
+import com.example.springinclasstest.user.FoodItem;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;

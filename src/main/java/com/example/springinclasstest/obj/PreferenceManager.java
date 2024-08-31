@@ -1,4 +1,4 @@
-package com.example.springinclasstest;
+package com.example.springinclasstest.obj;
 
 import com.example.springinclasstest.user.FoodItem;
 import org.springframework.stereotype.Component;
